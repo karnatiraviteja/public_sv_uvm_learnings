@@ -2,7 +2,7 @@
 
 ## Compile:
 ```
-vlog -sv <module>.sv
+vlog <module>.sv
 ```
 
 ## Simulate & exit automatically:
